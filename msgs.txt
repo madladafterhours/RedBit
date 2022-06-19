@@ -1,0 +1,2 @@
+REPLACE THIS TEXT WITH THE MESSAGES YOUR REPLIES WILL CONTAIN
+If you enter multiple messages separated by lines, the bot will randomly choose between them.
